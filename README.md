@@ -27,20 +27,36 @@ https://nodejs.org/en
 2--->Download ZIP
 
 Click on the "Code" button.
+
+
 Select "Download ZIP".
+
+
 Extract the ZIP file to your desired location.
 
 3--->For Frontend (React)
 
 Open a terminal or command prompt.( your file(socket.io) location.)
+
+
 cd frontend
+
+
 npm install
+
+
 npm run dev
 
 4--->For Backend (Node.js & Express)
  
  Open a terminal or command prompt.( your file(socket.io) location.)
+
+ 
  cd backend
+
+ 
  npm install
+
+ 
  npm start
   
